@@ -39,13 +39,13 @@
         }
         #fill {
             padding: 2px 0;
-            background-color: #b90c00; /* Fill colour */
+            background-color: #d1a000; /* Fill colour */
             width: 75%; /* Bar percentage, change text below also */
             border-radius: 25px; /* Roundness */
             animation: proanimate 2s;
         }
         #barpercent h3 {
-            color: white; /* Bar percentage text colour */
+            color: rgb(0, 0, 0); /* Bar percentage text colour */
             margin: 0; padding: 0;
             opacity: 1;
             animation: fadein 3s forwards;
